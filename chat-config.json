@@ -1,0 +1,12 @@
+{
+  "assistantName": "Assistant DCTC",
+  "welcomeMessage": "Bienvenue, je suis l'assistante Sylvia pour vous aider.\r\nComment puis-je vous aidez?",
+  "themeColor": "#ff0080",
+  "adminAvatar": "/img/chatgpt.jpg",
+  "userAvatar": "/img/user.png",
+  "chatIcon": "/img/ico.png",
+  "newMessageSoundAdmin": "/sounds/new-message.mp3",
+  "newUserSoundAdmin": "/sounds/new-message.mp3",
+  "statusSoundAdmin": "/sounds/file-sounds-1219-magic.mp3",
+  "newMessageSoundClient": "/sounds/new-message.mp3"
+}
